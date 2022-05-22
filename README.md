@@ -1,5 +1,5 @@
-#Tarefas Com VueJs e Vuetify 
+<h1>Tarefas Com VueJs e Vuetify</h1>
 
-##Aprendendo as funcionalidades do Vue e Vuetify para desenvolvimento de sites
+<p>Aprendendo as funcionalidades do Vue e Vuetify para desenvolvimento de sites</p>
 
-##Nesse exemplo esta sendo desenvolvido um site com tarefas diárias 
+<p>Nesse exemplo esta sendo desenvolvido um site com tarefas diárias</p>
